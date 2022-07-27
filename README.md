@@ -23,7 +23,19 @@
 •	Added player board state files to reserve the game state and utilize it for black box testing. <br>
  https://github.com/Sparsh0212/Qwirkle
      </div>
-
+     <br><br>
+  <div>
+  Path Planning Algorithm (C++)
+(Pointers/ Dynamic Memory Management, Arrays) <br>
+• A 2D Environment was provided where a Robot needs to find the
+shortest Path to travel from Start Location S to the Goal Location
+G and some obstacles were present in the environment <br>
+•Robot could only move in Empty Locations and 4 Directions which
+are Left, Right, Up, Down <br>
+• Designed a shortest path algorithm for a Robot to travel in the
+given environment <br>
+https://github.com/Sparsh0212/Path-Planing-Algorithm
+     </div>
 
  </div>
   
